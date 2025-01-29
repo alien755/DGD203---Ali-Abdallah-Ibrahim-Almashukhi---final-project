@@ -1,0 +1,14 @@
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\bin\Debug\net8.0\AliProj.exe
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\bin\Debug\net8.0\AliProj.deps.json
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\bin\Debug\net8.0\AliProj.runtimeconfig.json
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\bin\Debug\net8.0\AliProj.dll
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\bin\Debug\net8.0\AliProj.pdb
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\obj\Debug\net8.0\AliProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\obj\Debug\net8.0\AliProj.AssemblyInfoInputs.cache
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\obj\Debug\net8.0\AliProj.AssemblyInfo.cs
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\obj\Debug\net8.0\AliProj.csproj.CoreCompileInputs.cache
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\obj\Debug\net8.0\AliProj.dll
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\obj\Debug\net8.0\refint\AliProj.dll
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\obj\Debug\net8.0\AliProj.pdb
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\obj\Debug\net8.0\AliProj.genruntimeconfig.cache
+C:\Users\mashw\Downloads\AliProgramming_Project\AliProj\AliProj\obj\Debug\net8.0\ref\AliProj.dll
